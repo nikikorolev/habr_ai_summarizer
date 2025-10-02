@@ -43,10 +43,10 @@
 **TO-DO**
 
 ## Состав команды
-- [Никита Королев](t.me/fpleasure)
-- [Науменко Дарья](t.me/yalmess)
-- [Хакимов Альберт](t.me/albaalba13)
-- [Хугаев Георгий](t.me/young_biznes)
+- [Никита Королев](https://t.me/fpleasure)
+- [Науменко Дарья](https://t.me/yalmess)
+- [Хакимов Альберт](https://t.me/albaalba13)
+- [Хугаев Георгий](https://t.me/young_biznes)
 
 ## Куратор
-- [Никита Тиунов](t.me/nik_tiun)
+- [Никита Тиунов](https://t.me/nik_tiun)
