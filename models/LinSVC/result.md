@@ -88,8 +88,15 @@ OneVsRestClassifier(
 ## ЭТАП 4: РЕЗУЛЬТАТЫ ОЦЕНКИ
 
 
-- Micro F1 = 0.4404
-- Macro F1 = 0.2888
+- Micro F1: 0.4404
+- Macro F1: 0.2888
+- Micro Precision: 0.3609
+- Micro Recall: 0.5648
+- Macro Precision: 0.3230
+- Macro Recall: 0.3130
+- Hamming Loss: 0.0079
+- Jaccard Score (samples): 0.3058
+- Jaccard Score (macro): 0.1988
 
 ### 4.1 Детальный анализ результатов
 - Micro-F1 = 0.4404:
