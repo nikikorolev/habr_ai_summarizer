@@ -2,6 +2,7 @@
 __pycache__/
 *.py[codz]
 *$py.class
+.vscode
 
 # C extensions
 *.so
@@ -218,3 +219,8 @@ __marimo__/
 
 # Local files
 /local
+
+# MLflow / MinIO local state
+/data/
+/mlruns/
+summarization/mlflow_results.csv
